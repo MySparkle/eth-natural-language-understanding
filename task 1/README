@@ -1,0 +1,18 @@
+NLU Project 1
+Group 21 (autoencoder@outlook.com)
+Sara Javadzadeh	(jsara@student.ethz.ch)
+Lierni Sestorain (liernis@student.ethz.ch)
+Georgios Touloupas (gtouloup@student.ethz.ch)
+Qin Wang (qwang@student.ethz.ch)
+
+# Running the project
+When running the project, the working directory must contain a directory "data" containing the dataset and the embeddings file.
+
+To train the model according to a specific experiment and compute the perplexities on the test set:
+python3 model.py --experiment [A|B|C]
+
+To compute the perplexities on the test set, using a pre-trained model saved at the "result" directory:
+python3 model.py --experiment [A|B|C] --perplexity_only
+
+To generate sentences continuing those on the continuation file, using a pre-trained model saved at the "result" directory:
+python3 model.py --experiment C --sentence_generation

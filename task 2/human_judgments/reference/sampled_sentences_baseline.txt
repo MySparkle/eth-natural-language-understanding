@@ -1,0 +1,500 @@
+Source: are you hurt ? what does that mean , you can ' t play ? <continued_utterance> official shooting script as of <number> / <number> / <number> <number> .
+Target: no . i ' m fine . it just --
+Prediction: i ' m not a UNK .
+Score: 
+=======================================
+Source: i don ' t think dr . <person> sent me a telegram . i was simply told . in a letter , i believe . i don ' t remember exactly .
+Target: <person> and goering were sure heaping honours on you . one makes you a privy councillor , the other makes you vice-president of the chamber of music , and you weren ' t even a member of the party , how do you explain that ?
+Prediction: <person> , i ' m not going to be a little man .
+Score: 
+=======================================
+Source: <person> , son , you gon na get smart , you can leave right now .
+Target: <person> , sir . i didn ' t mean that .
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: you go .
+Target: ever since <person> , you ' ve been different . kind of distracted , distant . but i feel like you ' re coming back from wherever you were .
+Prediction: i ' m sorry .
+Score: 
+=======================================
+Source: <person> , if you ' ll excuse me , i ' m not in jail .
+Target: from <person> ' s viewpoint . <continued_utterance> sure you ' re in jail , <person> . you ' re a prisoner of your own fears , of your own greed and ambition ; you ' re in jail .
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: what ?
+Target: that ! now stop it ! <continued_utterance> <person> ! !
+Prediction: i ' m sorry .
+Score: 
+=======================================
+Source: <person> , private kinney needed to get back safe to take care of her . <continued_utterance> it ' s sad they died , isn ' t it ? <continued_utterance> don ' t look at me . i don ' t like people looking at me like that . <continued_utterance> stop looking at me .
+Target: where should i look then , cole ?
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: i know , i know . but still , somehow i don ' t feel better .
+Target: all right . how about i feel better when you take them ?
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: did there come a time when all the children had been picked up ?
+Target: yes .
+Prediction: no .
+Score: 
+=======================================
+Source: i don ' t want to talk about it .
+Target: all i know is she ' s beautiful . lots of soul . <person> for you . i ' m not going to feel good about this trip until you guys hook up . don ' t you just want to feel that cozy little box grip down on your <person> ?
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: that ' s smart . <person> ' s talk about guns and violence .
+Target: you don ' t think weapons are important ?
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: he ' s dead . he looks dead , i guess .
+Target: probably wasn ' t him then .
+Prediction: <person> , he ' s a UNK .
+Score: 
+=======================================
+Source: sure , this ' ll go on all night .
+Target: i mean , could you put me up for a couple of weeks ?
+Prediction: <person> .
+Score: 
+=======================================
+Source: who ?
+Target: zero .
+Prediction: <person> .
+Score: 
+=======================================
+Source: mine ! <continued_utterance> mine !
+Target: now will you move along , little fella ? we ' re got a lot of work to do .
+Prediction: i ' m sorry .
+Score: 
+=======================================
+Source: <person> night .
+Target: i ' ve lost half a pound since tuesday .
+Prediction: <person> .
+Score: 
+=======================================
+Source: you sure you don ' t want me to rsvp to some of these holiday parties ?
+Target: yep . i ' m perfectly happy spending time home alone . and speaking of home -- you ' re going to miss your plane .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: you don ' t know that lunatic yet ? <person> - egotistic whims ! like the gag - when you got him for a friend , you don ' t need an enemy ! that ' s what the fight with <person> was about . `` leo '' , i says , `` hunsecker froze me out . so i ' m eating humble pie this month - please print me an item . ``
+Target: and , instead , he printed his heel in your face ?
+Prediction: i ' m sorry , i ' m not going to be a little man .
+Score: 
+=======================================
+Source: we ' re in the process .
+Target: you went to that thing .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: why not break it up yourself ? you could do it in two minutes flat .
+Target: at this late date you need explanations . ? <person> ' s all i got - now that she ' s growing up , i want my relationship with her to stay at least at par ! i don ' t intend to antagonize her if i don ' t have to . now , be warned , son - i ' ll have to blitz you .
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: you ' re not .
+Target: is this thing going to effect everything i do for the rest of my life ?
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: <person> , if you ' re so miserable , why don ' t you leave ? <person> ' s almost out of school , he can handle it .
+Target: oh , <person> would love that . no . i want him out . i like that house .
+Prediction: <person> , i ' m not going to be a little man .
+Score: 
+=======================================
+Source: afternoon , <person> .
+Target: <person> , this man wrote this play !
+Prediction: <person> .
+Score: 
+=======================================
+Source: because <person> knows the russian counter-strike will remove its enemies here .
+Target: <person> . how much do you know about <person> ?
+Prediction: <person> , i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: <person> , no words can ever express my gratitude for taking me in and taking care of me and .
+Target: hey , your heart attack could be the best thing that ever happened to me .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: but it ' s not , it ' s a dog and i have never done a dog .
+Target: my heart bleeds .
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: did you say two o ' clock .
+Target: yeah .
+Prediction: i ' m sorry .
+Score: 
+=======================================
+Source: <person> , did you hear her ? `` you shouldn ' t leave without getting something for free . `` she wants to party , baby .
+Target: you think so ?
+Prediction: <person> , i ' m not going to be a little man .
+Score: 
+=======================================
+Source: i ' ve always thought so .
+Target: if i whistle . those boys ' ll see you , and come runnin ' . <continued_utterance> naw , i ' ve seen what that can do to a pack of cigarettes .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: i know , i know . but now the director of national intelligence is sure to want a closer look at our program , and until we train up another candidate , we ' ll need to keep <person> around to demonstrate it .
+Target: oh .
+Prediction: i ' m not sure .
+Score: 
+=======================================
+Source: and the title of this piece ?
+Target: mercutio
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: don ' t be too sure .
+Target: now , ' limp dick ' , i know . what .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: i don ' t know how to handle that one . i think i already broke my record for smooth .
+Target: i don ' t understand .
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: you can ' t carry in a cab even with a permit - so why bother ?
+Target: is there a firing range around ?
+Prediction: i ' m not sure i ' m not going to be a little man .
+Score: 
+=======================================
+Source: i ' ll use a life-line . fifty- fifty .
+Target: <person> . computer , take away two wrong answers .
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: <person> . we have sex .
+Target: when was the last time we had sex ? <continued_utterance> there was snow on the ground .
+Prediction: <person> .
+Score: 
+=======================================
+Source: oh what , and hope he doesn ' t notice ? and who the fuck are we going to replace him with ?
+Target: <person> `` the gun ? '' or `` mad fist '' <person> ?
+Prediction: no .
+Score: 
+=======================================
+Source: yes , yes , captain -- thank you for coming .
+Target: nothing for me . i understand there ' s something urgent you need to discuss with me .
+Prediction: <person> , i ' m not a UNK .
+Score: 
+=======================================
+Source: i ' ve heard so much about you .
+Target: i bet . .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: i hope i ' m not interrupting .
+Target: no , not at all . we were just talking about . <person> and i met yesterday , so .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: <person> hundred . and it ' s a deal .
+Target: for the life of me , sir , i can not <continued_utterance> actually , she said you had decided .
+Prediction: <person> , i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: first push the man , then the issue . senator palantine is first of all a dynamic man , an intelligent , interesting , fascinating man .
+Target: you forgot sexy .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: i ' ll take them both .
+Target: i know you ' re a jazz fiend but do you absolutely hate the opera ? i ' ve been trying to give my tickets away , it ' s tomorrow , but if you were prepared to be dragged .
+Prediction: <person> , i ' m not going to be a little man .
+Score: 
+=======================================
+Source: good . thank you . now that i have it on . why are you laughing ? you don ' t even know what that means .
+Target: no . i don ' t . but i always said to myself , when i die , i want to die laughing . <person> laughs . ascending . waiting . and then . a thunderous explosion below them .
+Prediction: i ' m not sure .
+Score: 
+=======================================
+Source: it ' s been my experience that senators are only focused on pleasing those who fund their campaigns . and they are more than willing to forget the niceties of democracy to get those funds .
+Target: not another lecture , <person> . not on the economics of politics . it ' s too early in the morning . and besides , you ' re generalising . the chancellor doesn ' t appear to be corrupt .
+Prediction: <person> , i ' m not a UNK of the UNK .
+Score: 
+=======================================
+Source: no . <continued_utterance> i , uh . don ' t think you should either .
+Target: then excuse me , because if i had the equipment i ' d inject the vodka .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: you want another sandwich ? there ' s roast pork . <continued_utterance> you said . you ' d read me your article .
+Target: <person> a picture of an oil tanker . that ' s the header . <continued_utterance> quoyle <continued_utterance> well . <person> think ?
+Prediction: i ' m not sure .
+Score: 
+=======================================
+Source: way to go . how ' s <person> ?
+Target: <person> ?
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: i don ' t know .
+Target: it ' s <person> !
+Prediction: <person> , i ' m not going to be a little man .
+Score: 
+=======================================
+Source: yes .
+Target: class of ' <number> ?
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: tell it with pictures .
+Target: tell it with pictures . what i ' m saying .
+Prediction: i ' m not a UNK .
+Score: 
+=======================================
+Source: <person> did you let it get into a populated area ?
+Target: it ' s taken on a disguise .
+Prediction: i ' m not sure .
+Score: 
+=======================================
+Source: i did all the mechanicals for one of our senior architects and i think he ' s going to promote me to the design staff .
+Target: maybe you could design a corkscrew that actually works . everything in this apartment comes from scandinavia . they don ' t even have wine in scandinavia . <continued_utterance> do you think my attachment to <person> is unnatural ?
+Prediction: i ' m not sure .
+Score: 
+=======================================
+Source: of mercy . off .
+Target: i understand .
+Prediction: i ' m not a UNK .
+Score: 
+=======================================
+Source: do you want an aisle or a window seat ?
+Target: window .
+Prediction: no .
+Score: 
+=======================================
+Source: thank you .
+Target: i probably won ' t see you again until the trial . if there is a trial .
+Prediction: <person> .
+Score: 
+=======================================
+Source: or . ?
+Target: they revoke our flight status .
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: here we go . <continued_utterance> `` <number> cc ' s of parasolutrine in combination with <number> cc ' s of paracin given iv produces deep sleep suitable for emergency surgical procedures . no cardiac side effects . rem activity is suppressed . ``
+Target: how long does it last ?
+Prediction: UNK .
+Score: 
+=======================================
+Source: and almost got tossed out of the academy .
+Target: how ?
+Prediction: and the UNK ?
+Score: 
+=======================================
+Source: i know .
+Target: everyone ' s dreams in all those apartments . all those secrets we ' ll never know . that ' s the truth of it -- all the thoughts nobody will ever know .
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: i got power ! gim me a minute !
+Target: we don ' t have a minute !
+Prediction: i ' m sorry .
+Score: 
+=======================================
+Source: and the butfor ?
+Target: what ' s a butfor ?
+Prediction: no .
+Score: 
+=======================================
+Source: i see a flower . and y ' know , even the most beautiful flowers still grow from dirt .
+Target: yeah .
+Prediction: <person> , you ' re not going to be a UNK .
+Score: 
+=======================================
+Source: <person> . it ' s just something silly .
+Target: oh . <person> from st . <person> .
+Prediction: <person> .
+Score: 
+=======================================
+Source: would you like to see her morgue photos ?
+Target: she was sitting across from me .
+Prediction: you ' re not going to do .
+Score: 
+=======================================
+Source: you volunteered ?
+Target: it was an honor . a chance to meet the legend . <person> . who taught her son to fight . organize , prepare . from when he was a kid . when you were in hiding , before the war .
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: try doing something , actions count !
+Target: i ' m sorry . i ' m sorry . i fucked up .
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: <person> !
+Target: do you know it ?
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: as best we can estimate , it crashed four hundred years ago .
+Target: four hundred ? you ' re kidding , right ?
+Prediction: you ' re not going to be a UNK .
+Score: 
+=======================================
+Source: what ? i think i ' m saying it . something ' s going on . he ' s either converted to christianity - or to something else .
+Target: i suggest you ask <person> that yourself . <person> ' s is on delle <person> , just off the corso .
+Prediction: <person> , i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: says who ?
+Target: anyone who ' s ever been in love .
+Prediction: <person> .
+Score: 
+=======================================
+Source: how long until we reach the rift ?
+Target: seven minutes .
+Prediction: i ' m not a UNK .
+Score: 
+=======================================
+Source: you ' re goddam right . now : where ' s this new kid who got you all bothered . where ' s your partner ?
+Target: . i ' ll call him off .
+Prediction: <person> , i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: but the trooper wasn ' t hurt .
+Target: what makes you so sure ?
+Prediction: i ' m not sure .
+Score: 
+=======================================
+Source: cows have only been domesticated in the last eight thousand years , before that they were running around mad as lorries . the human digestive system ' `` ' hasn ' t got used to any dairy products yet , it takes a lot longer than that .
+Target: well fuck me <person> , what have you been reading ?
+Prediction: you ' re not a UNK .
+Score: 
+=======================================
+Source: <person> ? <continued_utterance> <person> , are you there ?
+Target: you think <person> has something to do with what killed <person> ? with what ' s out there ?
+Prediction: i ' m not going to be a UNK .
+Score: 
+=======================================
+Source: i thought you did . <continued_utterance> come here young man . mind your mother .
+Target: totally nauseating .
+Prediction: <person> .
+Score: 
+=======================================
+Source: . but you saw what was underneath , of course .
+Target: no . tell me about it .
+Prediction: i don ' t know .
+Score: 
+=======================================
+Source: have you finished ?
+Target: mph mph .
+Prediction: no .
+Score: 
+=======================================
+Source: he hit his head . on the way in .
+Target: you think so ?
+Prediction: <person> .
+Score: 
+=======================================
+Source: then we ' ll say our good nights now .
+Target: oh christ . regretfully . i <number> l <number> tip toe .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: that ' s nice . and you live in queens ? with a child , and a dog . ?
+Target: no dog .
+Prediction: no , i ' m not sure .
+Score: 
+=======================================
+Source: you want the stuff tomorrow or don ' t ya ? it ' s gon na take hours just to clean it up . besides , <person> ' s still a hot item . where am i gon na be if he gets hit ?
+Target: just give us what ya can , <person> . we ' ll send a truck down .
+Prediction: <person> , i ' m not going to be a little man .
+Score: 
+=======================================
+Source: i don ' t like that . <continued_utterance> <person> says you ' re not as dumb as you look .
+Target: how could i be ?
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: yes , if it ' s going to help , certainly .
+Target: so , the doctor , he has to make the - - come se dice ?
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: do you have a name for all of your cats ?
+Target: oh , yes . <continued_utterance> let me see ! there ' s <person> , <person> , <person> , <person> .
+Prediction: i ' m sorry .
+Score: 
+=======================================
+Source: <person> hasn ' t penned <person> ' s present yet -- it won ' t be too much longer .
+Target: <person> . pull a number <number> steel blue gel on the back light . yeah i ' m on my way but .
+Prediction: what ?
+Score: 
+=======================================
+Source: he ' s looking for <person> , my dear .
+Target: <person> . can ' t do anything about this traffic .
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: <person> is nuts , don ' t you agree ?
+Target: <person> is a genius , <person> . <person> , <person> ! but , a genius misunderstood , and unappreciated .
+Prediction: i ' m not going to be a little man .
+Score: 
+=======================================
+Source: you ' ll be fine .
+Target: it ' s not me , <person> ' <person> . i worry about you . what if they realise i ' m not you ?
+Prediction: <person> .
+Score: 
+=======================================
+Source: is he likely to -- picket my office ?
+Target: very likely .
+Prediction: i ' m not sure .
+Score: 
+=======================================
+Source: forgive me . i ' ve never read the navy manual . i wonder what it says about bathroom and shower procedures .
+Target: and <person> , one other thing . i ' d like from now on for you to address me as captain or sir in front of the men .
+Prediction: <person> ?
+Score: 
+=======================================
+Source: yeah sure . <continued_utterance> this is great but you guys should really get out there and market yourselves .
+Target: so , marketing ? like . ?
+Prediction: <person> .
+Score: 
+=======================================
+Source: dr . <person> , when there ' s time i ' ll -
+Target: we don ' t reckon time the same way , <person> . this is all the time you ' ll ever have .
+Prediction: i ' m sorry .
+Score: 
+=======================================
+Source: don ' t flatter yourself . i take pictures of a lot of junk . <continued_utterance> <person> , let ' s hear it . i ' m sure you have a great explanation for why those rocket photos are so important you broke into my house .
+Target: we ' re trying to repair <person> ' s ship . it ' s been damaged and --
+Prediction: <person> .
+Score: 
+=======================================
+Source: don ' t `` yes , <person> '' me , <person> . you ' re outta line . this is strictly homicide .
+Target: <person> , i got this friend .
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
+Source: you ' re late , <person> !
+Target: i had to ride my bike here . my behind is killing me .
+Prediction: i ' m sorry .
+Score: 
+=======================================
+Source: and yours ?
+Target: <person> and <person> the pirate ' s daughter . yes , i know .
+Prediction: the UNK .
+Score: 
+=======================================
+Source: besides that he turned it off ?
+Target: yes .
+Prediction: he ' s a UNK .
+Score: 
+=======================================
+Source: i love you !
+Target: i know .
+Prediction: <person> , i ' m sorry .
+Score: 
+=======================================
